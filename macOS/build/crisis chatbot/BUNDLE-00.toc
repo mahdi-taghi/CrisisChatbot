@@ -1,0 +1,4 @@
+([('crisis chatbot',
+   '/Users/mahditaghi/Desktop/LLM project/chatbot_llamamodel/dist/crisis '
+   'chatbot',
+   'EXECUTABLE')],)
